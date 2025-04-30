@@ -1,6 +1,6 @@
 ## NAME : S.VENGADA KRISHNAN
 ## REG.NO : 212223110061
-## EX. NO.4
+## EX. NO.5
 ## DATE 30.04.2025
 ## Implementation of XOR  using RBF
 ## Aim:
